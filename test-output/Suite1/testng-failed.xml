@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Nopackage(failed)">
+    <classes>
+      <class name="HRMS_TestAutomationScripts.TC_01_LoginLogout">
+        <methods>
+          <include name="TC_01_LoginLogouts"/>
+        </methods>
+      </class> <!-- HRMS_TestAutomationScripts.TC_01_LoginLogout -->
+    </classes>
+  </test> <!-- Nopackage(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
